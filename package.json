@@ -1,15 +1,9 @@
 {
   "name": "js-crawler-api",
   "version": "1.0.0",
-  "description": "Lorem Ipsum",
+  "description": "",
   "main": "index.js",
   "dependencies": {
-    "good": "^7.3.0",
-    "good-console": "^6.4.0",
-    "good-squeeze": "^5.0.2",
-    "hapi": "^16.5.2",
-    "http2": "^3.3.6",
-    "inert": "^4.2.1"
   },
   "devDependencies": {},
   "scripts": {
@@ -24,7 +18,7 @@
     "NodeJS",
     "Crawler"
   ],
-  "author": "SEM NOME",
+  "author": "",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/osamuca/js-crawler-api/issues"
