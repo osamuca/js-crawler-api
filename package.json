@@ -1,10 +1,20 @@
 {
   "name": "js-crawler-api",
+<<<<<<< HEAD
   "version": "0.0.0",
   "private": true,
+=======
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {},
+>>>>>>> ccdbc55ce2f1bf05ce669895ec8cbedeed0b165f
   "scripts": {
     "start": "node ./bin/www"
   },
+<<<<<<< HEAD
   "dependencies": {
     "body-parser": "~1.17.1",
     "cookie-parser": "~1.4.3",
@@ -13,4 +23,17 @@
     "morgan": "~1.8.1",
     "serve-favicon": "~2.4.2"
   }
+=======
+  "keywords": [
+    "API",
+    "NodeJS",
+    "Crawler"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/osamuca/js-crawler-api/issues"
+  },
+  "homepage": "https://github.com/osamuca/js-crawler-api#readme"
+>>>>>>> ccdbc55ce2f1bf05ce669895ec8cbedeed0b165f
 }
